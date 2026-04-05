@@ -1,0 +1,49 @@
+body {
+    background-color: #e2e2e2;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+h1, h2, h3 {
+    font-weight: 600;
+}
+
+h2 {
+    color:#042c51;
+}
+
+.btn {
+    background-color: #042c51;
+    color: white;
+    text-align: center;
+
+}
+
+.btn:hover {
+  background-color: #89bc40; /* Green */
+  color: white;
+}
+
+
+footer {
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+
+.bg-dark {
+    background-color: rgba(15, 66, 111, 1) !important;
+}
+
+.col-sm-2.col-form-label {
+    color:#042c51;
+}
+
+.bg-light {
+    padding: 25px;
+}
+
+
+img {
+    max-width: 250px;
+}
