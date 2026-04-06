@@ -59,6 +59,7 @@ The website includes:
 ## How to View the Website Locally
 
 1. Download or clone this repository:
+   https://github.com/sydgilly/Gilchrist-Module-2-Assignment
 
 2. Open the project folder.
 
