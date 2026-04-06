@@ -16,6 +16,13 @@ The website includes:
 
 -------------------------------------------------------------------------------------------------------
 
+## Intended Users
+- College students seeking faculty information
+- Visitors looking for course details or office hours
+- Students needing a simple way to contact faculty
+
+-------------------------------------------------------------------------------------------------------
+
 ## Technologies Used
 - **HTML5** – Page structure and content
 - **Bootstrap 5** – Responsive layout and basic styling
@@ -39,6 +46,7 @@ The website includes:
 -------------------------------------------------------------------------------------------------------
 
 ## Challenges and Other Thoughts
+
 - I had some issues with setting up the project with VSCode and GitHub initially
   - This was resolved by updating my git config
 - I had issues when pushing my requests
@@ -46,3 +54,25 @@ The website includes:
 - I could improve with my understanding of GitHub and the workflow process of pushing changed. I plan to watch some additional tutorials and do additional reading to help better understand this.
 - I would like to expand on this project in the future by adding a faculty page with multiple faculty member, a course list and information page, and add in some backend functionality.
 
+-------------------------------------------------------------------------------------------------------
+
+## How to View the Website Locally
+
+1. Download or clone this repository:
+
+2. Open the project folder.
+
+3. Right-click faculty-page.html → Open With → Web Browser.
+
+No installation or server setup is required.
+
+-------------------------------------------------------------------------------------------------------
+
+## Figma Mockup/Wireframe
+
+https://www.figma.com/design/t1sdANNPknO2qFB0xHtIvt/Module-2-Assignment?node-id=1-2&t=RNVnyHCzKQEk7PnA-1
+
+-------------------------------------------------------------------------------------------------------
+
+## Author
+Sydney Gilchrist
